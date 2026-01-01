@@ -1,0 +1,36 @@
+2025-10-22 00:06:30.926891: Controller activated.
+2025-10-22 00:06:31.285736: Mouse moved right
+2025-10-22 00:06:31.801545: Controller deactivated.
+2025-10-22 00:06:31.803560: Controller activated.
+2025-10-22 00:06:32.127350: Mouse clicked left
+2025-10-22 00:06:32.640541: Controller deactivated.
+2025-10-22 00:06:32.642327: Controller activated.
+2025-10-22 00:06:33.620422: Typed text: Hello from Jarvis
+2025-10-22 00:06:34.123147: Controller deactivated.
+2025-10-22 00:06:34.125155: Controller activated.
+2025-10-22 00:06:34.438326: Pressed hotkey: ctrl + a
+2025-10-22 00:06:34.952799: Controller deactivated.
+2025-10-22 00:06:35.008838: Controller activated.
+2025-10-22 00:06:35.275372: Pasted and sent text: This is a test
+2025-10-22 00:06:35.780953: Controller deactivated.
+2025-10-22 00:07:39.699718: Controller activated.
+2025-10-22 00:07:40.055033: Mouse moved right
+2025-10-22 00:07:40.565052: Controller deactivated.
+2025-10-22 00:07:40.569052: Controller activated.
+2025-10-22 00:07:40.880611: Mouse clicked left
+2025-10-22 00:07:41.395824: Controller deactivated.
+2025-10-22 00:07:41.397805: Controller activated.
+2025-10-22 00:07:42.372911: Typed text: Hello from Jarvis
+2025-10-22 00:07:42.886254: Controller deactivated.
+2025-10-22 00:07:42.929038: Controller activated.
+2025-10-22 00:07:43.244668: Pressed hotkey: ctrl + a
+2025-10-22 00:07:43.748859: Controller deactivated.
+2025-10-22 00:08:08.304378: Controller activated.
+2025-10-22 00:08:08.657527: Mouse moved right
+2025-10-22 00:08:09.170409: Controller deactivated.
+2025-10-22 00:08:09.171783: Controller activated.
+2025-10-22 00:08:09.482030: Mouse clicked left
+2025-10-22 00:08:09.993482: Controller deactivated.
+2025-10-22 00:08:09.995648: Controller activated.
+2025-10-22 00:08:10.302473: Pressed hotkey: ctrl + a
+2025-10-22 00:08:10.817230: Controller deactivated.

@@ -1,0 +1,37 @@
+GUI starting at 2025-10-19T17:09:42.222925 (pid=9780)
+GUI starting at 2025-10-19T17:48:05.290927 (pid=13636)
+GUI starting at 2025-10-19T18:02:32.340144 (pid=29044)
+GUI starting at 2025-10-19T19:14:45.727999 (pid=18248)
+GUI starting at 2025-10-19T19:17:44.471759 (pid=23724)
+GUI starting at 2025-10-19T19:25:59.838527 (pid=26264)
+GUI starting at 2025-10-19T19:27:04.857124 (pid=21260)
+GUI starting at 2025-10-20T11:49:05.737220 (pid=15456)
+GUI starting at 2025-10-20T11:50:10.369132 (pid=21012)
+GUI starting at 2025-10-20T11:56:26.926561 (pid=5340)
+GUI starting at 2025-10-20T12:02:28.054403 (pid=24416)
+GUI starting at 2025-10-20T12:04:17.071680 (pid=9036)
+GUI starting at 2025-10-21T23:30:55.648075 (pid=13232)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)
+C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py:359: DeprecationWarning: Enum value 'Qt::ApplicationAttribute.AA_UseHighDpiPixmaps' is marked as deprecated, please check the documentation for more information.
+  app.setAttribute(Qt.AA_UseHighDpiPixmaps)

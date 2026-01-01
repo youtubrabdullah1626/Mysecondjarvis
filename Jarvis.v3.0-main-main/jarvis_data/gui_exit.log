@@ -1,0 +1,42 @@
+
+[2025-10-18T17:41:44.149377] Qt aboutToQuit triggered.
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 496, in <module>
+    main()
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 487, in main
+    rc = app.exec()
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 480, in _on_quit
+    _tb.print_stack(file=lf)
+[2025-10-18T17:41:44.153896] app.exec() returned 0
+
+[2025-10-18T17:42:26.131835] Qt aboutToQuit triggered.
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 496, in <module>
+    main()
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 487, in main
+    rc = app.exec()
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 480, in _on_quit
+    _tb.print_stack(file=lf)
+[2025-10-18T17:42:26.136603] app.exec() returned 0
+
+[2025-10-18T17:48:31.982232] Qt aboutToQuit triggered.
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 496, in <module>
+    main()
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 487, in main
+    rc = app.exec()
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 480, in _on_quit
+    _tb.print_stack(file=lf)
+[2025-10-18T17:48:31.986058] app.exec() returned 0
+
+[2025-10-18T17:58:02.476614] Qt aboutToQuit triggered.
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 496, in <module>
+    if __name__ == "__main__":
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 487, in main
+    pass
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 480, in _on_quit
+    import traceback as _tb
+[2025-10-18T17:58:02.482536] app.exec() returned 0
+
+[2025-10-18T18:01:44.603831] Qt aboutToQuit triggered.
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 497, in <module>
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 488, in main
+  File "C:\Users\Vikas\OneDrive\Desktop\Jarvis.v3.0-main-main\jarvis_gui.py", line 481, in _on_quit
+[2025-10-18T18:01:44.647641] app.exec() returned 0
