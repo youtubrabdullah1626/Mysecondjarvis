@@ -1,9 +1,0 @@
-.env
-*.env
-jarvis-venv/
-.venv/
-venv/
-__pycache__/
-*.pyc
-*.log
-.DS_Store
